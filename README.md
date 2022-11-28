@@ -8,7 +8,7 @@ Welcome to my profile !
 
 👨‍💻 About me:
 -  I am a Data Analyst from Portugal who is currently living and working in Sydney, Australia 🌍
--  Currently, my role entails developing HR-related reports and dashboards for a large corporation 💻
+-  Currently, my role at work entails developing HR-related reports and dashboards for a large corporation 💻
 -  On my free time, I enjoy working out 🏋️‍♂️ hitting the beach 🏖️ and developing my own data science projects 🌱
 -  I am looking to collaborate on interesting and challenging open-source projects 💞️
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pmpmchaves-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pmpmchaves/)
